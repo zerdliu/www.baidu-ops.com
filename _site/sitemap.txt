@@ -8,4 +8,5 @@ http://username.github.com/pages.html
 http://username.github.com/sitemap.txt
 http://username.github.com/tags.html
 
+http://username.github.com/2012/08/01/ops-book-list
 http://username.github.com/2012/07/11/jekyll

@@ -38,6 +38,6 @@ tagline: Supporting tagline
 
 <div class="row">
   <div class="span7 offset2">
-    <h3><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">More posts</a></h3>
+    <h3><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">更早的文章</a></h3>
   </div>
 </div>
