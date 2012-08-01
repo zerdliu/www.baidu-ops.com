@@ -9,6 +9,7 @@ author_blog: http://zerdliu.github.com
 ---
 {% include JB/setup %}
 
+![bookself](/assets/themes/twitter/bootstrap/img/bookself.jpg)
 
 做应用运维这一行，读了一些书,从好书里面学到了不少知识。希望这个书单不断变长。
 
