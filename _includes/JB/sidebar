@@ -9,8 +9,9 @@
 
   <hr />
   <small class="sidebar">搜索</small>
+
   <form action="http://www.google.com/search" class="navbar-search pull-left" method="get">
-    <input type="hidden" name="q" value="site:amirchaudhry.com"/>
+    <input type="hidden" name="q" value="site:www.baidu-ops.com"/>
     <input type="text" class="search-query" placeholder="Search" name="q"/>
   </form>
 

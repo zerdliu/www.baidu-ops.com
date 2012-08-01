@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All in Automation
+title: "百度OPS => All in Automation"
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -15,10 +15,10 @@ tagline: Supporting tagline
         <div class="row">
           <div class="span2">
             <h5 class="post-date" align="right">
-              {{ post.date | date: "%e%B %Y" }}</h5>
+              {{ post.date | date: "%e%B %Y" }}<br /> by <a href="{{ post.author_blog }}"> {{ post.author }}</a></h5>
           </div>
           <div class="span7">
-            <h2><a class="post-title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a class="post-title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} </a></h2>
             {{ post.content }}
             <a href="{{ BASE_PATH }}{{ post.url }}/#share-comment">Share Comment</a>
             <hr>
