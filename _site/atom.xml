@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Baidu OPS</title>
+ <link href="http://username.github.com/atom.xml" rel="self"/>
+ <link href="http://username.github.com"/>
+ <updated>2012-08-01T09:19:05+08:00</updated>
+ <id>http://username.github.com</id>
+ <author>
+   <name>zerd liu</name>
+   <email>supersugarcane@126.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>用Jekyll写技术博客</title>
+   <link href="http://username.github.com/2012/07/11/jekyll"/>
+   <updated>2012-07-11T00:00:00+08:00</updated>
+   <id>http://username.github.com/2012/07/11/jekyll</id>
+   <content type="html">&lt;h2 id='id1'&gt;缘由&lt;/h2&gt;
+
+&lt;p&gt;曾经也有过写技术博客的冲动。申请过bloger，msn space，百度空间。但总觉得这些blog如果写一些日常的感受还可以，但总是让人不能专注于写作，很小的编辑框，还要时刻注意换行，稍不注意，显示的格式就不对了。&lt;/p&gt;
+
+&lt;p&gt;直到最近，我在&lt;a href='http://www.yangzhiping.com/tech/writing-space.html'&gt;一篇blog&lt;/a&gt;上知道了－－&lt;a href='http://jekyllbootstrap.com/'&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;老外写书已经采用编程和项目的方式了, &lt;a href='http://pragprog.com/'&gt;The Pragmatic Bookshelf&lt;/a&gt; 的书都是这么写出来的，通过git做版本管理，通过Rake执行图书排版，甚至通过hudson进行每次提交进行排版。&lt;/p&gt;
+
+&lt;p&gt;Jekyll时ruby的一个项目。允许通过git进行版本管理，托管在github上作为一个项目。并通过静态页面进行访问。&lt;/p&gt;
+
+&lt;h2 id='id2'&gt;使用&lt;/h2&gt;
+
+&lt;p&gt;在github上新建一个repo&lt;/p&gt;
+
+&lt;p&gt;本地写一篇post&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake post title=&amp;quot;Jekyll Intrduction&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;在_post目录中完成编辑，使用vim 本地启动server，进行预览&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rake preview&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;将文章提交到github上。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git commit
+git push&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;每一篇文章都是一个ruby的.md说明文档，这种文档通过简单的语法书写，比wiki的语法格式还简单，非常适合编辑，可以将注意力集中在写作上，不再分散精力。文章托管在github上，如果是重要一点的内容，可以申请付费的repo，托管私有项目。通过git进行版本管理，不再担心写错，想到哪，写到哪。也方便做备份。&lt;/p&gt;
+
+&lt;p&gt;在Mac OS的黑色终端背景敲下这段文字的感觉真好。&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,31 @@
+
+<div class="sidebar">
+  <small class="sidebar">最近日志</small>
+  {% for post in site.posts %}
+    <ul class="tag_box">
+        <li><a href="{{ BASE_PATH }}{{ post.path }}#{{ post.title }}-ref">{{ post.title }} </a> </li>
+    </ul>
+  {% endfor %}
+
+  <hr />
+  <small class="sidebar">搜索</small>
+  <form action="http://www.google.com/search" class="navbar-search pull-left" method="get">
+    <input type="hidden" name="q" value="site:amirchaudhry.com"/>
+    <input type="text" class="search-query" placeholder="Search" name="q"/>
+  </form>
+
+  <hr />
+  {% unless page.tags == empty %}
+    {% if page.tags != nil %}
+      <small class="sidebar">Filed under</small>
+      {% assign tags_list = page.tags %}
+    {% else %}
+      <br />
+      <small class="sidebar">标签</small>
+      {% assign tags_list = site.tags %}
+    {% endif %}
+    <ul class="tag_box">
+      {% include JB/tags_list %}
+    </ul>
+  {% endunless %}
+</div>
