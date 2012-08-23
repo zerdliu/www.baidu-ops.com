@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Baidu OPS
+title : 百度运维团队技术博客
 tagline: Site Tagline
 author :
   name : zerd liu

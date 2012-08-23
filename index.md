@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "百度运维部官方博客"
+title: "All in Automation"
 ---
 {% include JB/setup %}
 
@@ -19,7 +19,7 @@ title: "百度运维部官方博客"
                | 文: <a href="{{ post.author_blog }}">{{ post.author }}</a> ]
             </h4>
             <br />
-            {{ post.abstract }}
+            <p class="abstract">{{ post.abstract }}</p>
             <br /><br /><a href="{{ BASE_PATH }}{{ post.url }}">阅读全文>></a>
             <hr>
             <br />

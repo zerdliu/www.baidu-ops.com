@@ -3,28 +3,19 @@
 
   <div class="sidebar_corner">
   <h2>最近日志</h2>
+  </br>
   {% for post in site.posts %}
-        <ul><a href="{{ BASE_PATH }}{{ post.path }}">{{ post.title }} </a></ul>
+        <ul><li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} </a></li></ul>
   {% endfor %}
-
-  </div>
-  <div class="sidebar_corner">
-  <h2>搜索</h2>
-
-  <form action="http://www.google.com/search" class="navbar-search pull-left" method="get">
-    <input type="hidden" name="q" value="site:www.baidu-ops.com"/>
-    <input type="text" class="search-query" placeholder="Search" name="q"/>
-  </form>
 
   </div>
 
   <div class="sidebar_corner">
   {% unless page.tags == empty %}
     {% if page.tags != nil %}
-      <h2>Filed under</h2>
+      <h2>相关标签</h2>
       {% assign tags_list = page.tags %}
     {% else %}
-      <br />
       <h2>标签</h2>
       {% assign tags_list = site.tags %}
     {% endif %}
