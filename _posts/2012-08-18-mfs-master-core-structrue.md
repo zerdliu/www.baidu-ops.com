@@ -6,6 +6,7 @@ category:
 tags: []
 author: "一仕"
 abstract: "MFS是广泛应用的分布式文件系统，为各个产品线提供业务数据共享，容灾备份等服务。MFS的实现思路全盘按照google的GFS这篇论文实现的，因此也被认为是GFS的一个开源C实现。对于这样一个分布式文件系统，它的master掌握了几乎系统的所有信息，而本文就是对这些元数据信息的设计和存储进行解析。并借此来加深对分布式文件系统的设计与实现的理解。"
+thumbnail: http://www.moosefs.org/tl_files/mfs_folder/write862.png
 ---
 {% include JB/setup %}
 

@@ -2,6 +2,9 @@
 <div class="sidebar">
 
   <div class="sidebar_corner">
+<a href="/atom.xml" class="feed-link" title="RSS订阅"><img
+src="http://mini-rssl.overgrid.com/mini_rss.png"
+alt="RSS feed" /></a>
   <h2>最近日志</h2>
   </br>
   {% for post in site.posts %}

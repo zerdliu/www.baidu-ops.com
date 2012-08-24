@@ -10,7 +10,7 @@ title: "All in Automation"
     <div class="row">
       <div class="span9">
 
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:15 %}
         <div class="row">
           <div class="span8">
             <h2><a class="post-title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} </a></h2>
@@ -19,13 +19,15 @@ title: "All in Automation"
                | 文: <a href="{{ post.author_blog }}">{{ post.author }}</a> ]
             </h4>
             <br />
-            <p class="abstract">{{ post.abstract }}</p>
-            <br /><br /><a href="{{ BASE_PATH }}{{ post.url }}">阅读全文>></a>
-            <hr>
-            <br />
-            <br />
+
+            <div class="thumbnail-container">
+              <img src="{{ post.thumbnail }}" alt=""/>
+              <p class="abstract">{{ post.abstract }}</p>
+              <a href="{{ BASE_PATH }}{{ post.url }}">阅读全文>></a>
+            </div>
           </div>
         </div>
+            <hr>
         {% endfor %}
 
       </div>

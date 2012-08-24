@@ -6,6 +6,7 @@ category:
 tags: [book]
 author: zerdliu
 author_blog: http://zerdliu.github.com
+thumbnail: http://woiba.com/wp-content/uploads/2012/02/tech-books.jpg
 ---
 {% include JB/setup %}
 
