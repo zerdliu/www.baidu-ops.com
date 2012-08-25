@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: "memcached的线程模型"
 description: ""
 category: 
-tags: ['memcached','open-source']
+tags: ['memcached','open source']
 author: 文晖
 abstract: Memcached 是一个高性能的内存对象缓存系统，经典的场景是用于动态Web应用以减轻数据库负载。它通过在内存中缓存数据和对象来减少读取数据库的次数，从而提高动态、数据库驱动网站的速度。这里简要介绍一下memcached的线程模型。
 thumbnail: http://www.linuxeden.com/upimg/allimg/100716/1I30359C-0.png
@@ -196,6 +196,6 @@ memcached的这套多线程event机制很值得设计linux后端网络程序时�
 ## 参考文献
 * [memcache源码分析--线程模型](http://www.iteye.com/topic/344172)
 * [memcached结构分析——线程模型](http://blog.csdn.net/bokee/article/details/6670550)
-* [[Memcached的线程模型及状态机](http://basiccoder.com/thread-model-and-state-machine-of-memcached.html)
+* [Memcached的线程模型及状态机](http://basiccoder.com/thread-model-and-state-machine-of-memcached.html)
 
 

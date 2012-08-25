@@ -5,6 +5,9 @@
 <a href="/atom.xml" class="feed-link" title="RSS订阅"><img
 src="http://mini-rssl.overgrid.com/mini_rss.png"
 alt="RSS feed" /></a>
+  </div>
+
+  <div class="sidebar_corner">
   <h2>最近日志</h2>
   </br>
   {% for post in site.posts %}
@@ -26,5 +29,18 @@ alt="RSS feed" /></a>
       {% include JB/tags_list %}
     </ul>
   {% endunless %}
+  </div>
+
+  <div class="sidebar_corner">
+  <h2>友情链接</h2>
+  </br>
+    <ul><li><a href="http://www.baidu-tech.com"> 百度搜索研发部官方博客 </a></li></ul>
+    <ul><li><a href="http://developer.baidu.com"> 百度开发者中心 </a></li></ul>
+    <ul><li><a href="http://box.baidu-tech.com/"> 百度框计算技术交流平台 </a></li></ul>
+    <ul><li><a href="http://www.baiduux.com/"> 泛用户体验博客 </a></li></ul>
+    <ul><li><a href="http://mux.baidu.com/"> 无线用户体验博客 </a></li></ul>
+    <ul><li><a href="http://blog.csdn.net/baiduforum"> 百度互联网技术官方博客 </a></li></ul>
+
+
   </div>
 </div>

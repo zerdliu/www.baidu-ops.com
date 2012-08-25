@@ -3,9 +3,10 @@ layout: post
 title: "一名运维工程师的读书列表"
 description: ""
 category: 
-tags: [book]
+tags: [books]
 author: zerdliu
 author_blog: http://zerdliu.github.com
+abstract: 运维工程师成长的过程中离不开知识，书籍是获取知识的手段。技术，技术文化，提升思维深度一样都不能少。
 thumbnail: http://woiba.com/wp-content/uploads/2012/02/tech-books.jpg
 ---
 {% include JB/setup %}
