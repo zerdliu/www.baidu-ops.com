@@ -74,6 +74,7 @@ thumbnail: http://images.all-free-download.com/images/graphiclarge/stallman_clip
 >	Richard Stallman takes notes in binary. 
 
 * Richard Stallman的左手叫做"(",右手叫做")".
+
     zerd: lisp语言书写出来有大量的"()"
 
 >	Richard Stallman's left and right hands are named "(" and ")" 
@@ -87,6 +88,7 @@ thumbnail: http://images.all-free-download.com/images/graphiclarge/stallman_clip
 >	Richard Stallman wrote the first version of Emacs using Emacs. 
 
 * Richard Stallman 写了一个非常强大的程序，他知道宇宙的终极秘密。
+
      zerd：[42](http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29)是科幻小说中"Deep Thought"技术出的一个数字，解答了宇宙完事万物的秘密。
 
 >	Richard Stallman wrote a program so powerful, it knows the question to 42. 
@@ -114,11 +116,13 @@ thumbnail: http://images.all-free-download.com/images/graphiclarge/stallman_clip
 >	Richard Stallman can parse HTML with regex. 
 
 * Richard Stallman 不需要sudo，我反正要给他做一个三明治
+
     zerd: 真的没看懂
 
 >	Richard Stallman doesn't need sudo. I will make him a sandwich anyway. 
 
 * Stallman 家里没有windows，即使门上也没有
+
     zerd：stallman家里没有窗户，呵呵
 
 >	There is no Windows in Stallman's house.. just DOORs... 
@@ -132,6 +136,7 @@ thumbnail: http://images.all-free-download.com/images/graphiclarge/stallman_clip
 >	In an average living room there are 1,242 objects RMS could use to write an OS, including the room itself. 
 
 * Richard Stallman 能够telnet上Mordor
+
     zerd： Mordor 魔多
 
 >	Richard Stallman can telnet into Mordor 

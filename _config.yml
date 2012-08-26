@@ -13,7 +13,7 @@ title : 百度运维团队技术博客
 tagline: Site Tagline
 author :
   name : zerd liu
-  email : supersugarcane@126.com
+  email : zerdliu@126.com
   github : zerdliu
   twitter : zerdliu
   feedburner : feedname
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://www.baidu-ops.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
