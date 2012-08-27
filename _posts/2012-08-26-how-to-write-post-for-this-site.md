@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: ['notification']
 author: zerdliu
-author_blog: zerdliu.github.com
+author_blog: http://zerdliu.github.com
 abstract: 如何为站点贡献文章。内部稿件投递方式。
 thumbnail: http://liuxue.nhscnu.edu.cn/Article/UploadFiles/200808/2008081710260794.jpg
 ---
