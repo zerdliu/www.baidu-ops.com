@@ -50,7 +50,6 @@ num=0
 cat file | while read line ; do
   $num++
 done
-
 echo $num
 {% endhighlight %}
 
