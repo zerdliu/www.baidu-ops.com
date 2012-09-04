@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: [puppet,capistrano,deployment]
 author: zerdliu
-author_blog: http://zerdliu.github.com
 thumbnail: http://jedi.be/blog/wp-content/uploads/2010/05/puppetcamp-europe-2010.png 
 abstract: "capistrano和puppet都能够做到部署的功能。那他们有什么区别呢？capistrano是在执行action，puppet是在维护state。本文将介绍两者之间的不同。并剖析其最初面对的问题和设计目标如何造成了这种不同。同学们，不能一刀切哦。"
 ---

@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: ['shell','practice']
 author: zerdliu
-author_blog: http://zerdliu.github.com
 abstract: "本文分享了在shell学习和使用中经常用到的一些功能和技巧。"
 thumbnail: http://hp.dewen.org/wp-content/uploads/2012/07/bash-shell.jpg
 ---
