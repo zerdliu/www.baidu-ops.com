@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我们"
+title: "关于"
 description: ""
 ---
 {% include JB/setup %}

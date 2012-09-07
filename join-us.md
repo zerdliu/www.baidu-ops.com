@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "加入我们"
+title: "招聘"
 description: ""
 ---
 {% include JB/setup %}
