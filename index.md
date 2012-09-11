@@ -10,7 +10,7 @@ title: "All in Automation"
     <div class="row">
       <div class="span9">
 
-        {% for post in site.posts limit:15 %}
+        {% for post in site.posts limit:20 %}
         <div class="row">
           <div class="span8">
             <h2><a class="post-title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} </a></h2>
