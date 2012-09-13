@@ -5,7 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-## [运维开发工程师](http://tongxue.baidu.com/baidu/beijing_operation_and_maintenance_development_engineer.htm)
+## [运维开发工程师(点击申请)](http://tongxue.baidu.com/baidu/beijing_operation_and_maintenance_development_engineer.htm)
 
 {% highlight bash %}
 工作地点: 北京、上海、深圳
@@ -41,7 +41,7 @@ description: ""
 
 {% endhighlight %} 
 
-## [数据库管理员（DBA）](http://tongxue.baidu.com/baidu/beijing_dba.htm)
+## [数据库管理员DBA(点击申请)](http://tongxue.baidu.com/baidu/beijing_dba.htm)
 
 {% highlight bash %}
 
@@ -73,7 +73,7 @@ description: ""
   有大规模分布式系统设计和开发经验
 {% endhighlight %} 
  
-## [自动化平台研发工程师](http://tongxue.baidu.com/baidu/beijing_automation_platform_development_engineer.htm)
+## [自动化平台研发工程师(点击申请)](http://tongxue.baidu.com/baidu/beijing_automation_platform_development_engineer.htm)
 
 {% highlight bash %}
 工作地点: 北京、上海、深圳
