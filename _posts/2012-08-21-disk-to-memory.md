@@ -6,7 +6,7 @@ category:
 tags: ["performance"]
 author: 王伟
 abstract: "机器富余的内存可以如何使用？做虚拟机？混部？其实还有一种方法--当磁盘用"
-thumbnail: "http://img.tfd.com/cde/CACHDISK.GIF"
+thumbnail: /assets/themes/twitter/bootstrap/img/CACHDISK.GIF
 ---
 {% include JB/setup %}
 

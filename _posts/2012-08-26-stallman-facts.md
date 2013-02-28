@@ -6,7 +6,7 @@ category:
 tags: ['joke','geek']
 author: zerdliu
 abstract: Richard Stallman 是程序员公认的顶级黑客。好事的程序员也总结了他的奇闻轶事--程序员的暗语和笑话
-thumbnail: http://images.all-free-download.com/images/graphiclarge/stallman_clip_art_25432.jpg
+thumbnail: /assets/themes/twitter/bootstrap/img/stallman_clip_art_25432.jpg
 ---
 {% include JB/setup %}
 

@@ -6,7 +6,7 @@ category:
 tags: ['mysql']
 author: 张良
 abstract: "mysql的timeout有多少种，之间的区别时什么？本文从实测和代码分析的角度验证了不同的超时参数的作用。"
-thumbnail: http://media.tumblr.com/tumblr_lnyugw8OtD1qkyu55.jpg
+thumbnail: /assets/themes/twitter/bootstrap/img/tumblr_lnyugw8OtD1qkyu55.jpg
 ---
 {% include JB/setup %}
 

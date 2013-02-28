@@ -6,7 +6,7 @@ category:
 tags: ['notification']
 author: zerdliu
 abstract: 如何为站点贡献文章。内部稿件投递方式。
-thumbnail: http://liuxue.nhscnu.edu.cn/Article/UploadFiles/200808/2008081710260794.jpg
+thumbnail: /assets/themes/twitter/bootstrap/img/2012-08-26-how-to-write-post-for-this-site.md/thumbnail.jpg
 ---
 {% include JB/setup %}
 

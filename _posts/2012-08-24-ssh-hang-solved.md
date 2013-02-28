@@ -6,7 +6,7 @@ category:
 tags: ['ssh','practice','problem solved']
 author: 治伟
 abstract: "一些原因会让ssh hang住，本文即介绍了一种场景，并介绍了定位问题的过程。希望大家能学到问题分析和定位的思路。"
-thumbnail: http://www.blyon.com/blogimg/openssh.png
+thumbnail: /assets/themes/twitter/bootstrap/img/openssh.png
 ---
 {% include JB/setup %}
 

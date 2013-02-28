@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [fail,'complex system']
 abstract: 这篇文章讨论了故障的性质、如何评估故障、如何推断故障肇因
-thumbnail: http://m2.mattters.com/youtube/2S0k12uZR14/large.jpg
+thumbnail: /assets/themes/twitter/bootstrap/img/large.jpg
 author: 连城
 ---
 {% include JB/setup %}

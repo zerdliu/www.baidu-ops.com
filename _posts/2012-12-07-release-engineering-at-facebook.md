@@ -3,8 +3,9 @@ layout: post
 title: "Release Engineering at Facebook"
 description: ""
 category: 
+author: facebook
 tags: ['release']
-thumbnail: http://zkybase.org/blog/wp-content/uploads/2012/12/facebook-icon.png
+thumbnail: /assets/themes/twitter/bootstrap/img/2012-12-07-release-engineering-at-facebook.md/thumbnail.png
 abstract: 让我们一起看看Facebook的软件发布是什么样子的？ 要知道这篇文章可是Facebook 11年5月的技术快照啊。
 ---
 {% include JB/setup %}

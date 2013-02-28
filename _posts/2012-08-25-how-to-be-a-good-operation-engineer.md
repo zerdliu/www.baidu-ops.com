@@ -6,7 +6,7 @@ category:
 tags: ['mind','practice']
 author: zerdliu
 abstract: 如何积累技术能力，技术职级对技术能力的要求是怎样的？本文从一个侧面提炼一些看法。
-thumbnail: http://www.clker.com/cliparts/2/5/1/e/1194989153213449932aiga_stairs1.svg.med.png
+thumbnail: /assets/themes/twitter/bootstrap/img/1194989153213449932aiga_stairs1.svg.med.png
 ---
 {% include JB/setup %}
 
