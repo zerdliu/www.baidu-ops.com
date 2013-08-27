@@ -3,7 +3,7 @@ layout: post
 title: "bash的常用功能和技巧"
 description: ""
 category: 
-tags: ['shell','practice']
+tags: [shell,practice]
 author: zerdliu
 abstract: "本文分享了在shell学习和使用中经常用到的一些功能和技巧。"
 thumbnail: /assets/themes/twitter/bootstrap/img/bash-shell.jpg

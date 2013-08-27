@@ -1,9 +1,11 @@
 #!/bin/bash
 function data_upload_ftp() {
+  USER=""
+  PASS=""
 
   ftp -inv 174.120.207.225 << EOF
 
-  user baiduops 3bEL17i3ft
+  user $USER $PASS
 
   cd public_html
 
@@ -19,8 +21,8 @@ EOF
 
 function data_upload_lftp() {
   HOST="174.120.207.225"
-  USER="baiduops"
-  PASS="3bEL17i3ft"
+  USER=""
+  PASS=""
   LCD="_site"
   RCD="public_html/"
   lftp -c "
