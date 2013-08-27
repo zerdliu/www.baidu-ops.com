@@ -513,7 +513,7 @@ button.btn.small,input[type="submit"].btn.small{*padding-top:3px;*padding-bottom
 .tabs-right .nav-tabs .active>a,.tabs-right .nav-tabs .active>a:hover{border-color:#ddd #ddd #ddd transparent;*border-left-color:#ffffff;}
 .navbar{width:980px;margin-left:auto;margin-right:auto;overflow:visible;margin-bottom:18px;
 }
-.navbar-inner{height:140px;background:url(../img/banner.png) repeat-x;
+.navbar-inner{height:140px;background:url(../img/banner.jpg) repeat-x;
   -webkit-border-radius: 10px;
   border-radius: 10px;
 }

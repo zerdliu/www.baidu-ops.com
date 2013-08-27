@@ -3,7 +3,7 @@ layout: post
 title: "[译文]stallman其人轶事"
 description: ""
 category: 
-tags: ['joke','geek']
+tags: [joke,geek]
 author: zerdliu
 abstract: Richard Stallman 是程序员公认的顶级黑客。好事的程序员也总结了他的奇闻轶事--程序员的暗语和笑话
 thumbnail: /assets/themes/twitter/bootstrap/img/stallman_clip_art_25432.jpg
